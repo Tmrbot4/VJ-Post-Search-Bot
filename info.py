@@ -7,8 +7,8 @@
 import os
 from os import environ
 
-API_ID       = int(environ.get("API_ID", "27696177"))
-API_HASH     = environ.get("API_HASH", "0c44906a4feff3b947db76dfa7c57d88")
+API_ID       = int(environ.get("API_ID", "17436482"))
+API_HASH     = environ.get("API_HASH", "a44aa102b083d00639351f0426e7c0f9")
 BOT_TOKEN    = environ.get("BOT_TOKEN", "7263960107:AAHpuNFgo562xuJLi88WdKQ3GEgtv74B0UI")
 DATABASE_URI = environ.get("DATABASE_URI", "mongodb+srv://tabolo8539:0evqZDV4fC5fD17c@cluster0.cw8zxus.mongodb.net/?retryWrites=true&w=majority")
 LOG_CHANNEL  = int(environ.get("LOG_CHANNEL", "-1002213521354"))
