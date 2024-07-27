@@ -5,8 +5,10 @@
 class script(object):
     START = """**ʜᴇʟʟᴏ {} 🤟**
    
-<b>ɪ ᴀᴍ ᴠᴊ ᴘᴏsᴛ sᴇᴀʀᴄʜ ʙᴏᴛ. ɪ ᴀᴍ ʙᴇsᴛ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ sᴇᴀʀᴄʜ ʙᴏᴛ! 
-ɪ ᴡɪʟʟ ғɪʟᴛᴇʀ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴘᴏsᴛs ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴀɴᴅ sᴇɴᴅ ɪᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴄʜᴀᴛ ᴡʜᴇɴ sᴏᴍᴇᴏɴᴇ sᴇᴀʀᴄʜ ɪᴛ.</b>"""
+<b>I AM SHNOG FILTER BOT. I AM BEST CHANNEL LINK SEARCH BOT 😎!
+I WILL FILTER YOUR CHANNEL POSTS AUTOMATICALLY AND SEND IT IN YOUR GROUP CHAT WHEN SOMEONE SEARCH IT.
+
+ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ: <a href='https://t.me/Dreamer999'>ShNog</a></b>"""
 
     HELP = """<b>💢 ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ ɪɴ ᴀ ɢʀᴏᴜᴘ
 
