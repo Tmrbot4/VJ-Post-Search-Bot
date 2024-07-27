@@ -4,6 +4,6 @@
 
 from client import Bot
 
-print("Bot Started 👍 Powered By @TMR_update_channel")
+print("Bot Started 👍 Powered By @PS_Kingdom")
 Bot().run()
 
